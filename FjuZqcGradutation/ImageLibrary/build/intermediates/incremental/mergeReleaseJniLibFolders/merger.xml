@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\zqcFile\FjuZqcGradutation\ImageLibrary\libs"><file name="universal-image-loader-1.9.4-with-sources.jar" path="D:\zqcFile\FjuZqcGradutation\ImageLibrary\libs\universal-image-loader-1.9.4-with-sources.jar"/></source></dataSet><dataSet config="release"><source path="D:\zqcFile\FjuZqcGradutation\ImageLibrary\build-types\release\jniLibs"/></dataSet></merger>
