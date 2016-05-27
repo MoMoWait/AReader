@@ -5,9 +5,4 @@
     android:allowBackup="true"
     android:installLocation="auto">
 
-    <uses-sdk
-        android:minSdkVersion="4"
-        android:targetSdkVersion="7">
-    </uses-sdk>
-
 </manifest>
